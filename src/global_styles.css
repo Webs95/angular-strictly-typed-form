@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+body {
+  background-color: beige;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.app-container {
+  height: 100svh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
